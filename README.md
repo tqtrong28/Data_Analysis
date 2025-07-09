@@ -56,3 +56,9 @@ pivot_table().
 
 • Một số function khác: get_option(), set_option(), reset_option(), describe_option(), op-
 tion_context().
+
+=> Chúng ta sẽ tiến hành phân tích 2 data :
+
+-  IMDB Movie dataset là một bộ dữ liệu đánh giá phim, dùng để phân tích mức độ quan tâm của phim theo một số tiêu chí như: đạo diễn, diễn viên, tên phim... nhằm đưa ra những góc nhìn hỗ trợ dự đoán trong tương lai.
+
+- Dữ liệu daily time series của Open Power System Data (OPSD) ở Đức, gồm tổng lượng tiêu thụ điện, sản xuất điện gió và sản xuất điện mặt trời trên toàn quốc trong giai đoạn 2006-2017.
