@@ -1,9 +1,13 @@
 # Data_Analysis
+
+
 Pandas là một thư viện trong Python với ưu điểm là nhanh, mạnh, linh động, dễ sử dụng, mã nguồn
 mở, công cụ dùng để phân tích và thao tác dữ liệu. Pandas được xây dựng trên thư viện NumPy và
 có nhiều functions hỗ trợ cleaning, analyzing, và manipulating data, có thể giúp ta extract valuable
 insights của các tập dữ liệu. Pandas rất hiệu quả khi sử dụng trên dữ liệu bảng, như SQL table hoặc
-Excel spreadsheets.//
+Excel spreadsheets.
+
+
 Một số đặc điểm của Pandas:
 • Thao tác với các nguồn dữ liệu từ file csv, excel file, SQL, JSON file.
 • Cung cấp các loại cấu trúc dữ liệu khác nhau như Series, DataFrame và Panel.
@@ -17,6 +21,8 @@ trị phù hợp với trạng thái test.
 statistics, data shifting và lagging.
 • Tích hợp tốt với các thư viện khác của Python như Scikit-learn, statmodels và SciPy.
 • Có hiệu năng cao.
+
+
 Một số function trên Pandas thường dùng để xử lý dữ liệu:
 • Handle missing values: isna(), notna() – tìm kiếm các giá trị NA, isnull().
 • Indexing and slicing in Pandas: .loc (label based), .iloc (integer based), .ix (label and integer
